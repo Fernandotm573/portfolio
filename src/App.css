@@ -1,0 +1,10 @@
+
+/*selector universal para los estilos de toda la pagina*/
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'roboto', sans-serif;
+}
+
+
